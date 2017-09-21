@@ -1,0 +1,73 @@
+li.dropdown-mymenu {
+  position: inherit;
+} /*line-1*/
+li.dropdown-mymenu ul.dropwdown-content.dropdown-menu{
+  width: 95%;
+  margin:auto
+} /*line-2*/
+.container{
+  	padding: 80px 120px;
+}
+.img-discover-2{
+    border: 10px solid transparent;
+  	margin-bottom: 25px;
+  	width: 100%;
+    height: 100%;
+}
+.carousel-inner img {
+  	width: 100%;
+  	height: 100%;
+  	margin: auto;
+}
+.carousel-caption {
+  	color: #fff !important;
+}
+@media (max-width: 700px){
+  	.carousel-caption {
+  	   display: none;
+    }
+}
+.dc-2{
+		background-image: url("http://pages.revox.io/frontend/1.1.0/html/11/assets/images/elements_1.png");
+		width: 100%;
+  		height: 100%;
+}
+.font-1{
+  	background-image: url("http://pages.revox.io/frontend/1.1.0/html/11/assets/images/bg_pattern_1.jpg");
+  	width: 100%;
+  	height: 500px;
+}
+.font-2{
+  	background-image: url("http://pages.revox.io/frontend/1.1.0/html/11/assets/images/bg_pattern_2.jpg");
+  	width: 100%;
+  	height: 500px;
+}
+.font-3{
+  	background-image: url("http://pages.revox.io/frontend/1.1.0/html/11/assets/images/bg_pattern_3.jpg");
+  	width: 100%;
+  	height: 500px;
+}
+.arrow{
+  	margin: 50px auto;
+}
+.text-2{
+  	margin: 100px auto;
+  		
+}
+.content-2{
+  background: #f1f1f1 ;}
+.comment{
+  display: block-inline;
+  position: fixed;
+  right: 30px;
+  bottom: 30px;
+
+}
+.bg-5{
+  background-color: #2d2d30;
+  color: #bdbdbd;
+}
+div.bg-6{
+  padding: 10px !important;
+  margin:10px !important;
+}
